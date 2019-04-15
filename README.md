@@ -1,4 +1,4 @@
-# img2unicode
+# Img2Unicode
 Transform images into unicode characters.
 
 Change resolution settings by modifying res in the main function. Remember to change filename before you transform a new image by modifying the path at the main function.
