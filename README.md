@@ -1,9 +1,12 @@
 # Img2Unicode
+
 Transform images into unicode characters.
+
+Run *main.py* to convert an image.
 
 Change resolution settings by modifying res in the main function. Remember to change filename before you transform a new image by modifying the path at the main function.
 
-Add your images to the images repository, and if you want to improve the template characters, open the template.psd using Photoshop and modified the character in the text layer, then save the image to the templates respository. Name it after "u" + Unicode Number.
+Add your images to the images repository, and if you want to improve the template characters, open the *template.psd* using Photoshop and modified the character in the text layer, then save the image to the templates respository. Name it after "u" + Unicode Number.
 
 
       ▄▄▄▄▄▄▄, ▄▄▄▄▄▄▄▄         _▄▄▄▄▄▄▄          ___▄▄▄▄▄▄▄▄▄▄▄▄▄                _▄▄▄▄▄▄▄▄▄▄▄▄_          
